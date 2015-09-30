@@ -1,0 +1,7 @@
+{
+  "name": "font-smoothie",
+  "version": "1.0.0",
+  "main": "./fontsmoothie.js",
+  "ignore": [],
+  "dependencies": {}
+}
